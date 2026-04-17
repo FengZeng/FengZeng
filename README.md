@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Feng
+## Hi, I'm Feng
 
-Building **Soia** — a lightweight, modern cross-platform media player focused on high-performance streaming and high-quality video playback.
+Building **Soia** — a lightweight, modern, cross-platform media player focused on high-performance streaming and high-quality video playback.
 
 - 🎥 Primary inventor of **H.265 (HEVC)** patents
 - ⚙️ Focus on **8K/12K+ video** and efficient playback
@@ -21,10 +21,11 @@ Building **Soia** — a lightweight, modern cross-platform media player focused 
 
 ### 🔧 Soia
 
-- 🌐 Network playback (WebDAV, DLNA coming soon)
-- ⚡ Performance-first design for real-world devices
-- 🖥️ Cross-platform support
 - 🧩 Clean and minimalist UI
+- 🌐 WebDAV, DLNA & SMB streaming
+- 🎬 HDR & Dolby Vision support
+- ⚡ Performance-first playback
+- 🖥️ Cross-platform support
 
 👉 Check out **https://github.com/FengZeng/soia**
 
